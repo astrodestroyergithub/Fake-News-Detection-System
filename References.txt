@@ -1,0 +1,15 @@
+1. https://www.researchgate.net/publication/339022255_A_smart_System_for_Fake_News_Detection_Using_Machine_Learning
+2. https://sci-hub.hkvisa.net/10.1109/isssc50941.2020.9358890
+3. https://www.ijert.org/fake-news-detection-using-machine-learning-algorithms
+4. https://arxiv.org/ftp/arxiv/papers/2102/2102.04458.pdf
+5. http://www.ijcns.com/pdf/ijtesvol11no1-1.pdf
+6. https://www.hindawi.com/journals/complexity/2020/8885861/
+7. https://thesai.org/Publications/ViewPaper?Volume=11&Issue=9&Code=IJACSA&SerialNo=17
+8. https://ijariie.com/AdminUploadPdf/Detection_of_Fake_News_using_Machine_Learning_Algorithm_ijariie14923.pdf
+9. https://www.techrxiv.org/articles/preprint/Detecting_Fake_News_using_Machine_Learning_Algorithms/12089133/1
+10. https://www.sciencedirect.com/science/article/pii/S2667096821000446
+11. https://www.ijtsrd.com/computer-science/other/31148/fake-news-detection-using-machine-learning/nikhil-sharma
+12. http://sijr.in/articles/june2019/june_2019_5.pdf
+13. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9620068
+
+*** https://github.com/raj1603chdry/Fake-News-Detection-System ***
