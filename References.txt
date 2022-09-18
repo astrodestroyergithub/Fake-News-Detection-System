@@ -11,5 +11,3 @@
 11. https://www.ijtsrd.com/computer-science/other/31148/fake-news-detection-using-machine-learning/nikhil-sharma
 12. http://sijr.in/articles/june2019/june_2019_5.pdf
 13. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9620068
-
-*** https://github.com/raj1603chdry/Fake-News-Detection-System ***
